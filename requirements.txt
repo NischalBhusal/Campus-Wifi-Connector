@@ -1,0 +1,6 @@
+kivy
+kivymd
+cryptography
+plyer
+requests
+psutil
