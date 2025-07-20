@@ -11,10 +11,6 @@ A Python-based mobile application that allows students to connect to campus WiFi
 - 🔄 Background connection handling
 - 📊 Connection status monitoring
 
-## Screenshots
-
-![Login Screen](assets/screenshots/login.png)
-![Connected Screen](assets/screenshots/connected.png)
 
 ## Installation
 
